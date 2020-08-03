@@ -1,0 +1,48 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-pillar-extension-biomes-oplenty",
+	"promos": {
+		"1.15.1-latest": "4.2.1",
+		"1.15.1-recommended": "4.2.1",
+		"1.14.4-latest": "4.2.1",
+		"1.14.4-recommended": "4.2.1",
+		"1.12-latest": "4.0.1",
+		"1.12-recommended": "4.0.1",
+		"1.11.2-latest": "3.0.0",
+		"1.11.2-recommended": "2.2.0",
+		"1.10.2-latest": "3.0.0",
+		"1.10.2-recommended": "2.2.0",
+		"1.9.4-latest": "3.0.0",
+		"1.9.4-recommended": "2.2.0",
+		"1.8.9-latest": "3.0.0",
+		"1.8.9-recommended": "2.2.0"
+	},
+	"1.15.1": {
+		"4.2.1": "first version for 1.15.1"
+	},
+	"1.14.4": {
+		"4.2.1": "uses the forge blockstates, back in forge 28.1.40 (reducing the json)",
+		"4.2.0": "update texture locations to fit the build 242 of Biomes O'Plenty",
+		"4.1.0": "first release with support for stonecutter recipes & for woodcutter recipes"
+	},
+	"1.12": {
+		"4.0.1": "greatly reduce the number of block's ids used, this version is incompatible with previous versions",
+	    "3.0.0": "add group for pillars to be used by Chisel Mod",
+	    "2.2.0": "add some datas to biomesoplenty pillars (tooltip), pillars are registered in the event"
+	},
+	"1.11.2": {
+	    "3.0.0": "add group for pillars to be used by Chisel Mod",
+	    "2.2.0": "add some datas to biomesoplenty pillars (tooltip)"
+	},
+	"1.10.2": {
+	    "3.0.0": "add group for pillars to be used by Chisel Mod",
+	    "2.2.0": "add some datas to biomesoplenty pillars (tooltip)"
+	},
+	"1.9.4": {
+	    "3.0.0": "add group for pillars",
+	    "2.2.0": "add some datas to biomesoplenty pillars (tooltip)"
+	},
+	"1.8.9": {
+	    "3.0.0": "add group for pillars",
+	    "2.2.0": "add some datas to biomesoplenty pillars (tooltip)"
+	}
+}

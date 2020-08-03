@@ -1,0 +1,39 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-pillar-extension-quark",
+	"promos": {
+		"1.14.4-latest": "4.0.0",
+		"1.14.4-recommended": "4.0.0",
+		"1.12-latest": "4.0.0",
+		"1.12-recommended": "4.0.0",
+		"1.11.2-latest": "3.1.0",
+		"1.11.2-recommended": "3.0.0",
+		"1.10.2-latest": "3.1.0",
+		"1.10.2-recommended": "3.0.0",
+		"1.9.4-latest": "3.1.0",
+		"1.9.4-recommended": "3.0.0"
+	},
+	"1.14.4": {
+		"4.0.0": "first beta for 1.14.4"
+	},
+	"1.12": {
+		"4.0.0": "greatly reduce the number of block's ids used, this version is incompatible with previous versions",
+	    "3.1.1": "add Botania Pillars",
+	    "3.1.0": "add group for pillars to be used by Chisel Mod, read the full log of Corail Pillar 3.0.0",
+		"2.2.0": "fix the quark pillars to be shown in 1.12, add some datas to quark pillars"
+	},
+	"1.11.2": {
+	    "3.1.0": "add group for pillars to be used by Chisel Mod, read the full log of Corail Pillar 3.0.0",
+	    "3.0.0": "add Botania Pillars",
+		"2.2.0": "add some datas to quark pillars"
+	},
+	"1.10.2": {
+	    "3.1.0": "add group for pillars to be used by Chisel Mod, read the full log of Corail Pillar 3.0.0",
+	    "3.0.0": "add Botania Pillars",
+	    "2.2.0": "add some datas to quark pillars"
+	},
+	"1.9.4": {
+	    "3.1.0": "add group for pillars to be used by Chisel Mod, read the full log of Corail Pillar 3.0.0",
+	    "3.0.0": "add Botania Pillars",
+	    "2.2.0": "add some datas to quark pillars"
+	}
+}

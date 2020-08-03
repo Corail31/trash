@@ -1,0 +1,24 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-pillar-extension-chisel",
+	"promos": {
+		"1.12-latest": "4.0.0",
+		"1.12-recommended": "4.0.0",
+		"1.11.2-latest": "1.1.0",
+		"1.11.2-recommended": "1.1.0",
+		"1.10.2-latest": "1.1.0",
+		"1.10.2-recommended": "1.1.0"
+	},
+	"1.12": {
+		"4.0.0": "greatly reduce the number of block's ids used, this version is incompatible with previous versions",
+		"1.0.0": "include the major part of the pillars from Chisel blocks (only for vanilla and others extensions that Corail Pillar Support)",
+		"1.1.0": "add the missing variants"
+	},
+	"1.11.2": {
+		"1.0.0": "include the major part of the pillars from Chisel blocks (only for vanilla and others extensions that Corail Pillar Support)",
+		"1.1.0": "add the missing variants"
+	},
+	"1.10.2": {
+		"1.0.0": "include the major part of the pillars from Chisel blocks (only for vanilla and others extensions that Corail Pillar Support)",
+		"1.1.0": "add the missing variants"
+	}
+}

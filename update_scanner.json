@@ -1,0 +1,41 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-scanner",
+	"promos": {
+		"1.12.2-latest": "1.1.4",
+		"1.12.2-recommended": "1.1.4",
+		"1.12.1-latest": "1.1.4",
+		"1.12.1-recommended": "1.1.4",
+		"1.11.2-latest": "1.1.3",
+		"1.11.2-recommended": "1.1.3",
+		"1.10.2-latest": "1.1.3",
+		"1.10.2-recommended": "1.1.3"
+	},
+	"1.12.2": {
+		"1.0.1": "first beta",
+		"1.0.2": "fix #2 (compatibility with FTB Utilities)",
+		"1.1.0": "first release (check the log for details)",
+		"1.1.3": "fix about some blocks that couldn't be searched",
+		"1.1.4": "fix #3 (scanner in every creative tabs)"
+	},
+	"1.12.1": {
+		"1.0.1": "first beta",
+		"1.0.2": "fix #2 (compatibility with FTB Utilities)",
+		"1.1.0": "first release (check the log for details)",
+		"1.1.3": "fix about some blocks that couldn't be searched",
+		"1.1.4": "fix #3 (scanner in every creative tabs)"
+	},
+	"1.11.2": {
+		"1.0.1": "first beta",
+		"1.0.2": "fix #2 (compatibility with FTB Utilities)",
+		"1.1.0": "first release (check the log for details)",
+		"1.1.2": "fix for achievements",
+		"1.1.3": "fix about some blocks that couldn't be searched"
+	},
+	"1.10.2": {
+		"1.0.1": "first beta",
+		"1.0.2": "fix #2 (compatibility with FTB Utilities)",
+		"1.1.1": "first release (check the log for details)",
+		"1.1.2": "fix for achievements",
+		"1.1.3": "fix about some blocks that couldn't be searched"
+	}
+}

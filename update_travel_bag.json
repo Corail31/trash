@@ -1,0 +1,30 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/travel-bag",
+	"promos": {
+		"1.15.2-latest": "1.1.2",
+		"1.15.2-recommended": "1.1.2",
+		"1.15.1-latest": "1.0.8",
+		"1.15.1-recommended": "1.0.8",
+		"1.14.4-latest": "1.0.6",
+		"1.14.4-recommended": "1.0.6"
+	},
+	"1.15.2": {
+		"1.1.2": "update to forge 31.1.87",
+		"1.1.1": "fix curios slot keybinds reset (#3)",
+		"1.1.0": "config improvements, fix #1 & #2"
+	},
+	"1.15.1": {
+		"1.0.8": "re-add compat for Curios",
+		"1.0.7": "re-add compat for Tombstone/JEI",
+		"1.0.6": "first beta on 1.15.1, compat with tombstone/curios & jei are disabled"
+	},
+	"1.14.4": {
+		"1.0.6": "config uses now server config & keybind for the Curios bag slots allowing to open the bag",
+		"1.0.5": "update to forge 28.1.0 & allow to interact with graves with recent version of tombstone",
+		"1.0.4": "some improvments on the new slot Gluttony for nbt items & some config options to disable/adjust some features",
+		"1.0.3": "first upgrade Gluttony that works for you by transfering similar items in the bag from the player inventory & translation zh-cn",
+		"1.0.2": "custom serializer for colored recipes & fix the switch of 2 bags when the container is opened",
+		"1.0.1": "new bag model, colored variants, recipe with leather, support in JEI",
+		"1.0.0": "first release for 1.14.4"
+	}
+}

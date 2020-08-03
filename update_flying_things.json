@@ -1,0 +1,45 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/the-flying-things",
+	"promos": {
+		"1.15.2-latest": "1.8.9",
+		"1.15.2-recommended": "1.8.9",
+		"1.14.4-latest": "1.8.5",
+		"1.14.4-recommended": "1.8.5",
+		"1.14.3-latest": "1.8.1",
+		"1.14.3-recommended": "1.8.1",
+		"1.14.2-latest": "1.7.1",
+		"1.14.2-recommended": "1.7.1",
+		"1.13.2-latest": "1.6.1",
+		"1.13.2-recommended": "1.6.1",
+		"1.12.2-latest": "1.5.3",
+		"1.12.2-recommended": "1.5.3"
+	},
+	"1.15.2": {
+		"1.8.9": "update to new forge RB & fix the chance to get some drops",
+		"1.8.8": "update to forge 31.1.87 & keep the player riding on disconnect",
+		"1.8.7": "config in game, any color/graduation for bars",
+		"1.8.6": "improvements",
+		"1.8.5": "first version"
+	},
+	"1.14.4": {
+		"1.8.5": "update to forge 28.1.1 & drop the use of entity tag",
+		"1.8.4": "ensure the SimpleChannel to be initialized with forge 45",
+		"1.8.3": "update to forge 45 (incompatible changes in fml events)",
+		"1.8.2": "first release for 1.14.4, flying things can break leaves at high speed"
+	},
+	"1.14.3": {
+		"1.8.1": "2 new models for carpet related to raid",
+		"1.8.0": "first release for 1.14.3"
+	},
+	"1.14.2": {
+		"1.7.1": "new carpet models & support for recipes in JEI",
+		"1.7.0": "first beta for 1.14.2"
+	},
+	"1.13.2": {
+		"1.6.1": "avoid the warning when over 100 speed in singleplayer, nameTag useable on flying things, comments in config cfg",
+		"1.6.0": "first beta for 1.13.2"
+	},
+	"1.12.2": {
+		"1.5.3": "support in JEI, avoid speed limit in singleplayer, adapt texturemap"
+	}
+}

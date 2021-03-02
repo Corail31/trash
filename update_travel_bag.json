@@ -8,7 +8,9 @@
 		"1.15.1-latest": "1.0.8",
 		"1.15.1-recommended": "1.0.8",
 		"1.14.4-latest": "1.0.6",
-		"1.14.4-recommended": "1.0.6"
+		"1.14.4-recommended": "1.0.6",
+		"1.12.2-latest": "1.2.5",
+		"1.12.2-recommended": "1.2.5"
 	},
 	"1.16.5": {
 		"1.2.5": "alt click to unlock/lock slots & clean color with cauldron",
@@ -36,5 +38,8 @@
 		"1.0.2": "custom serializer for colored recipes & fix the switch of 2 bags when the container is opened",
 		"1.0.1": "new bag model, colored variants, recipe with leather, support in JEI",
 		"1.0.0": "first release for 1.14.4"
+	},
+	"1.12.2": {
+		"1.2.5": "first release for 1.12.2"
 	}
 }

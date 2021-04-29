@@ -1,8 +1,12 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/travel-bag",
 	"promos": {
-		"1.16.5-latest": "1.2.5",
-		"1.16.5-recommended": "1.2.5",
+		"1.16.5-latest": "1.2.6",
+		"1.16.5-recommended": "1.2.6",
+		"1.16.4-latest": "1.2.5",
+		"1.16.4-recommended": "1.2.5",
+		"1.16.3-latest": "1.2.5",
+		"1.16.3-recommended": "1.2.5",
 		"1.15.2-latest": "1.1.2",
 		"1.15.2-recommended": "1.1.2",
 		"1.15.1-latest": "1.0.8",
@@ -13,12 +17,19 @@
 		"1.12.2-recommended": "1.2.5"
 	},
 	"1.16.5": {
+		"1.2.6": "version range for optional dependencies",
 		"1.2.5": "alt click to unlock/lock slots & clean color with cauldron",
 		"1.2.4": "multiple dyes mixed in color recipe",
 		"1.2.3": "shorter recipe format & chest transfer",
 		"1.2.2": "configs & command",
 		"1.2.1": "button to fill the bag, config for lootbag",
 		"1.2.0": "first release"
+	},
+	"1.16.4": {
+		"1.2.5": "alt click to unlock/lock slots & clean color with cauldron"
+	},
+	"1.16.3": {
+		"1.2.5": "alt click to unlock/lock slots & clean color with cauldron"
 	},
 	"1.15.2": {
 		"1.1.2": "update to forge 31.1.87",

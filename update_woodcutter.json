@@ -1,7 +1,7 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter",
 	"promos": {
-		"1.16.5-latest": "1.2.2",
+		"1.16.5-latest": "1.2.3",
 		"1.16.5-recommended": "1.2.1",
 		"1.15.2-latest": "1.1.3",
 		"1.15.2-recommended": "1.1.3",
@@ -11,28 +11,18 @@
 		"1.14.4-recommended": "1.1.1"
 	},
 	"1.16.5": {
+		"1.2.3": "support for Twilight Forest",
 		"1.2.2": "support for Quark Woods",
 		"1.2.1": "improvements",
 		"1.2.0": "first release"
 	},
 	"1.15.2": {
-		"1.1.3": "remove stonecutting support (as it's now integrated directly in JEI)",
-		"1.1.2": "item/block tags for all woodcutters(+ usage in jei) & translation fix",
-		"1.1.1": "accept the 1.15.2 version"
+		"1.1.3": "final version"
 	},
 	"1.15.1": {
-		"1.1.0": "multiple changes (see changelog)",
-		"1.0.7": "first beta for 1.15.1 (compat for JEI is disabled)"
+		"1.1.0": "final version"
 	},
 	"1.14.4": {
-		"1.1.1": "multiple changes (see changelog)",
-		"1.1.0": "compat #1 & stonecutting recipes in JEI",
-		"1.0.6": "add the missing crafting recipes for the additional woodcutters",
-		"1.0.5": "support for The Midnight & variants of sawmill for Midnight/BOP (build 242+)",
-		"1.0.4": "variants of sawmill when Biomes O'Plenty (build 241 max) is present (#6) & recipe unlock for sawmill (#5)",
-		"1.0.3": "custom category in Jei to display the woodcutter recipes",
-		"1.0.2": "recipes for log, fix #2 (sawmill drop)",
-		"1.0.1": "recipes to convert logs to planks & fix connection on server (#1)",
-		"1.0.0": "first release for 1.14.4, with Biomes O' Plenty support"
+		"1.1.1": "final version"
 	}
 }

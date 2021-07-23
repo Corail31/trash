@@ -1,6 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-pillar",
 	"promos": {
+		"1.17.1-latest": "5.1.0",
+		"1.17.1-recommended": "5.1.0",
 		"1.16.5-latest": "5.0.0",
 		"1.16.5-recommended": "5.0.0",
 		"1.15.1-latest": "4.5.4",
@@ -26,52 +28,43 @@
 		"1.8.9-latest": "3.2.0",
 		"1.8.9-recommended": "3.2.0"
 	},
+	"1.17.1": {
+		"5.1.0": "first beta"
+	},
 	"1.16.5": {
 		"5.0.0": "first release"
 	},
 	"1.15.1": {
-		"4.5.4": "first beta for 1.15.1 (compat for JEI is disabled)"
+		"4.5.4": "final version"
 	},
 	"1.14.4": {
-		"4.6.0": "re-add torch/lever/ladder/button on pillar, compat #26 and item tooltip changes",
-		"4.5.4": "uses the forge blockstates, back in forge 28.1.40 (reducing the json)",
-		"4.5.3": "fix #23 (pillar drops)",
-		"4.5.2": "support for recipes in my other mod Woodcutter",
-		"4.5.1": "first release for 1.14.4 + stonecutting recipes"
+		"4.6.0": "final version"
 	},
 	"1.14.3": {
-		"4.5.0": "first release for 1.14.3"
+		"4.5.0": "final version"
 	},
 	"1.14.2": {
-		"4.4.2": "support for recipes in JEI",
-		"4.4.1": "update to latest forge",
-		"4.4.0": "first release for 1.14.2"
+		"4.4.2": "final version"
 	},
 	"1.13.2": {
-		"4.3.1": "show the recipes in JEI",
-		"4.3.0": "first release for 1.13.2"
+		"4.3.1": "final version"
 	},
 	"1.12.2": {
-		"4.2.1": "cleanup before 1.13, config annotation, prefix lang",
-		"4.1.0": "better rounded thin pillars and lots of new vanilla pillars",
-		"4.0.0": "greatly reduce the number of block's ids used, this version is incompatible with previous versions"
+		"4.2.1": "final version"
 	},
 	"1.12.1": {
-		"4.1.0": "better rounded thin pillars and lots of new vanilla pillars",
-		"4.0.0": "greatly reduce the number of block's ids used, this version is incompatible with previous versions"
+		"4.1.0": "final version"
 	},
 	"1.11.2": {
-		"3.3.0": "update the deprecated method to add group in chisel api (#15)",
-		"3.2.0": "fix #11 (quark recipe conflict) & #12 (tombstone conflict/crafting grid)"
+		"3.3.0": "final version"
 	},
 	"1.10.2": {
-		"3.3.0": "update the deprecated method to add group in chisel api (#15)",
-		"3.2.0": "fix #11 (quark recipe conflict) & #12 (tombstone conflict/crafting grid)"
+		"3.3.0": "final version"
 	},
 	"1.9.4": {
-		"3.2.0": "fix #11 (quark recipe conflict) & #12 (tombstone conflict/crafting grid)"
+		"3.2.0": "final version"
 	},
 	"1.8.9": {
-		"3.2.0": "fix #11 (quark recipe conflict) & #12 (tombstone conflict/crafting grid)"
+		"3.2.0": "final version"
 	}
 }

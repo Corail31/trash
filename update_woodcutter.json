@@ -1,8 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter",
 	"promos": {
-		"1.17.1-latest": "2.1.0",
-		"1.17.1-recommended": "2.1.0",
+		"1.17.1-latest": "2.1.1",
+		"1.17.1-recommended": "2.1.1",
 		"1.17-latest": "1.5.0",
 		"1.17-recommended": "1.5.0",
 		"1.16.5-latest": "2.0.0",
@@ -15,6 +15,7 @@
 		"1.14.4-recommended": "1.1.1"
 	},
 	"1.17.1": {
+		"2.1.1": "fix release 2.1.0 & improve command",
 		"2.1.0": "command to generate datapack",
 		"2.0.0": "re-add support for JEI",
 		"1.5.0": "update to Forge 37.0.33",

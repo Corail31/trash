@@ -1,7 +1,7 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter",
 	"promos": {
-		"1.18.2-latest": "2.3.4",
+		"1.18.2-latest": "2.3.5",
 		"1.18.2-recommended": "2.3.4",
 		"1.18.1-latest": "2.2.1",
 		"1.18.1-recommended": "2.2.1",
@@ -19,6 +19,7 @@
 		"1.14.4-recommended": "1.1.1"
 	},
 	"1.18.2": {
+		"2.3.5": "adapts woodcutter's model",
 		"2.3.4": "updates Twilight Forest",
 		"2.3.3": "updates BOP, additional translations & fix #20",
 		"2.3.2": "updates JEI & Quark condition",

@@ -1,10 +1,15 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter-extension",
 	"promos": {
+		"1.19-latest": "1.0.1",
+		"1.19-recommended": "1.0.1",
 		"1.18.2-latest": "1.0.1",
 		"1.18.2-recommended": "1.0.1",
 		"1.16.5-latest": "1.0.0",
 		"1.16.5-recommended": "1.0.0"
+	},
+	"1.19": {
+		"1.0.1": "same as 1.18"
 	},
 	"1.18.2": {
 		"1.0.1": "update"

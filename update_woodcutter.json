@@ -1,6 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter",
 	"promos": {
+		"1.19.1-latest": "2.4.2",
+		"1.19.1-recommended": "2.4.2",
 		"1.19-latest": "2.4.2",
 		"1.19-recommended": "2.4.2",
 		"1.18.2-latest": "2.3.6",
@@ -20,10 +22,11 @@
 		"1.14.4-latest": "1.1.1",
 		"1.14.4-recommended": "1.1.1"
 	},
+	"1.19.1": {
+		"2.4.2": "initial port"
+	},
 	"1.19": {
-		"2.4.2": "fix optional tags",
-		"2.4.1": "update for forge 41.0.94",
-		"2.4.0": "initial port"
+		"2.4.2": "final version"
 	},
 	"1.18.2": {
 		"2.3.6": "final version"

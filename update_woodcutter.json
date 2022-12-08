@@ -1,6 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter",
 	"promos": {
+		"1.19.3-latest": "2.6.0",
+		"1.19.3-recommended": "2.6.0",
 		"1.19.2-latest": "2.5.0",
 		"1.19.2-recommended": "2.5.0",
 		"1.19.1-latest": "2.4.2",
@@ -24,8 +26,11 @@
 		"1.14.4-latest": "1.1.1",
 		"1.14.4-recommended": "1.1.1"
 	},
+	"1.19.3": {
+		"2.6.0": "initial port"
+	},
 	"1.19.2": {
-		"2.5.0": "fix itemstack offset in jei plugin"
+		"2.5.0": "final version"
 	},
 	"1.19.1": {
 		"2.4.2": "final version"

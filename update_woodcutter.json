@@ -1,6 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter",
 	"promos": {
+		"1.19.4-latest": "2.7.0",
+		"1.19.4-recommended": "2.7.0",
 		"1.19.3-latest": "2.6.0",
 		"1.19.3-recommended": "2.6.0",
 		"1.19.2-latest": "2.5.2",
@@ -26,8 +28,8 @@
 		"1.14.4-latest": "1.1.1",
 		"1.14.4-recommended": "1.1.1"
 	},
-	"1.19.3": {
-		"2.6.0": "initial port"
+	"1.19.4": {
+		"2.7.0": "initial port"
 	},
 	"1.19.2": {
 		"2.5.2": "updates to forge RB"

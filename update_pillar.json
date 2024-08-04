@@ -1,6 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-pillar",
 	"promos": {
+		"1.21-latest": "6.4.0",
+		"1.21-recommended": "6.4.0",
 		"1.20.6-latest": "6.3.0",
 		"1.20.6-recommended": "6.3.0",
 		"1.20.4-latest": "6.2.1",
@@ -49,6 +51,9 @@
 		"1.9.4-recommended": "3.2.0",
 		"1.8.9-latest": "3.2.0",
 		"1.8.9-recommended": "3.2.0"
+	},
+	"1.21": {
+		"6.4.0": "initial port"
 	},
 	"1.20.6": {
 		"6.3.0": "initial port"

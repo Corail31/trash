@@ -9,8 +9,8 @@
 		"1.20.4-recommended": "3.2.1",
 		"1.20.2-latest": "3.1.0",
 		"1.20.2-recommended": "3.1.0",
-		"1.20.1-latest": "3.0.4",
-		"1.20.1-recommended": "3.0.4",
+		"1.20.1-latest": "3.0.5",
+		"1.20.1-recommended": "3.0.5",
 		"1.19.4-latest": "2.7.0",
 		"1.19.4-recommended": "2.7.0",
 		"1.19.3-latest": "2.6.0",
@@ -53,6 +53,7 @@
 		"3.1.0": "initial port"
 	},
 	"1.20.1": {
+		"3.0.5": "improves command /cwc for dedicated server",
 		"3.0.4": "fixes bamboo translation",
 		"3.0.3": "Tropicraft recipes",
 		"3.0.2": "add bamboo, compat Jei & Bop",
